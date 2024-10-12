@@ -66,11 +66,6 @@ Yang Liu, Liang Lin
 
 
 
-
-
-## <a id="sim-to-real"> Sim-to-Real Adaptation <a href="#table-of-contents">🔝</a> </a> 
-
-
    
 
  
