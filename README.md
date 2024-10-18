@@ -59,6 +59,21 @@ Yang Liu, Liang Lin
 ## <a id="Indoor-Navigation"> Indoor Navigation <a href="#table-of-contents">🔝</a> </a> 
 
 ## <a id="World-Model-Safty"> World Model Safty <a href="#table-of-contents">🔝</a> </a> 
+### Safety Evaluation
+
+### Safety Benchmark
+SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model[paper](https://arxiv.org/abs/2406.12030)
+
+
+SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf)
+
+
+### Attack
+From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking[paper](https://arxiv.org/abs/2406.14859)
+Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast[paper](https://arxiv.org/abs/2402.08567)
+
+### Safety enhancement
+MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[paper](https://arxiv.org/abs/2401.02906)
 
 ## <a id="Social-Simulation"> Social Simulation <a href="#table-of-contents">🔝</a> </a> 
 
