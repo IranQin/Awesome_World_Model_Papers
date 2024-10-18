@@ -73,7 +73,7 @@ From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking[[paper](h
 Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast[[paper](https://arxiv.org/abs/2402.08567)]
 
 ### Safety enhancement
-MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[paper](https://arxiv.org/abs/2401.02906)
+MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[[paper](https://arxiv.org/abs/2401.02906)]
 
 ## <a id="Social-Simulation"> Social Simulation <a href="#table-of-contents">🔝</a> </a> 
 
