@@ -45,7 +45,10 @@ Yang Liu, Liang Lin
 
 
 ## <a id="Foundation-Model"> Foundation Model <a href="#table-of-contents">🔝</a> </a>
+The construction of world models often relies on various fundamental models.
+
 ### Text Generation
+
 ### Image Generation
 ### Video Generation
 
@@ -96,6 +99,7 @@ MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[[paper](https
 
 ## <a id="Multi-Agent"> Multi-Agent World Model <a href="#table-of-contents">🔝</a> </a> 
 
+* **[COMBO] COMBO: Compositional World Models for Embodied Multi-Agent Cooperation. [[arxiv](https://arxiv.org/abs/2404.10775)]
 
 
    
