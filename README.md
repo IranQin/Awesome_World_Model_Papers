@@ -51,6 +51,17 @@ Yang Liu, Liang Lin
 
 ## <a id="General-World-Model"> General World Model <a href="#table-of-contents">🔝</a> </a> 
 
+General World Model aims at representing and simulating wide range of situations and interactions, especically those encountered in the real world.
+
+- Gen-2: Generate novel videos with text, images or video clips. [[website](https://runwayml.com/research/gen-2)]
+- Gen-3 Alpha: A New Frontier for Video Generation. [[website](https://runwayml.com/research/introducing-gen-3-alpha)]
+- Pandora: Towards General World Model with Natural Language Actions and Video States. [[paper](https://arxiv.org/pdf/2406.09455)]
+- Mastering Diverse Domains through World Models. [[paper](https://arxiv.org/pdf/2301.04104)]
+- TD-MPC2: Scalable, Robust World Models for Continuous Control. [[paper](https://arxiv.org/pdf/2310.16828)]
+- Learning Interactive Real-World Simulators. [[paper](https://ai-data-base.com/wp-content/uploads/2023/10/2310.06114_compressed.pdf)]
+- SafeDreamer: Safe Reinforcement Learning with World Models. [paper](https://arxiv.org/pdf/2307.07176)
+
+
 ## <a id="Autonomous-Driving"> Autonomous Driving <a href="#table-of-contents">🔝</a> </a> 
 
 
