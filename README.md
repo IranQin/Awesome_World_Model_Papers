@@ -86,6 +86,7 @@ SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles[
 
 ### Attack
 From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking[[paper](https://arxiv.org/abs/2406.14859)]
+
 Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast[[paper](https://arxiv.org/abs/2402.08567)]
 
 ### Safety enhancement
