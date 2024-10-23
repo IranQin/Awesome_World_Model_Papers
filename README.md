@@ -99,7 +99,7 @@ MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[[paper](https
 
 ## <a id="Multi-Agent"> Multi-Agent World Model <a href="#table-of-contents">🔝</a> </a> 
 
-* **[COMBO] COMBO: Compositional World Models for Embodied Multi-Agent Cooperation. [[arxiv](https://arxiv.org/abs/2404.10775)]
+* [COMBO] COMBO: Compositional World Models for Embodied Multi-Agent Cooperation. [[arxiv](https://arxiv.org/abs/2404.10775)]
 
 
    
