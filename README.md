@@ -53,14 +53,14 @@ Yang Liu, Liang Lin
 
 General World Model aims at representing and simulating wide range of situations and interactions, especically those encountered in the real world.
 
-- Gen-2: Generate novel videos with text, images or video clips. [[website](https://runwayml.com/research/gen-2)]
-- Gen-3 Alpha: A New Frontier for Video Generation. [[website](https://runwayml.com/research/introducing-gen-3-alpha)]
-- Pandora: Towards General World Model with Natural Language Actions and Video States. [[paper](https://arxiv.org/pdf/2406.09455)]
-- Mastering Diverse Domains through World Models. [[paper](https://arxiv.org/pdf/2301.04104)]
-- TD-MPC2: Scalable, Robust World Models for Continuous Control. [[paper](https://arxiv.org/pdf/2310.16828)]
-- Learning Interactive Real-World Simulators. [[paper](https://ai-data-base.com/wp-content/uploads/2023/10/2310.06114_compressed.pdf)]
-- SafeDreamer: Safe Reinforcement Learning with World Models. [paper](https://arxiv.org/pdf/2307.07176)
-- Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond[[paper](https://arxiv.org/pdf/2405.03520)]
+* **Gen-2: Generate novel videos with text, images or video clips**. [[website](https://runwayml.com/research/gen-2)]
+* **Gen-3 Alpha: A New Frontier for Video Generation**. [[website](https://runwayml.com/research/introducing-gen-3-alpha)]
+* **Pandora: Towards General World Model with Natural Language Actions and Video States**. [[paper](https://arxiv.org/pdf/2406.09455)]
+* **Mastering Diverse Domains through World Models**. [[paper](https://arxiv.org/pdf/2301.04104)]
+* **TD-MPC2: Scalable, Robust World Models for Continuous Control**. [[paper](https://arxiv.org/pdf/2310.16828)]
+* **Learning Interactive Real-World Simulators**. [[paper](https://ai-data-base.com/wp-content/uploads/2023/10/2310.06114_compressed.pdf)]
+* **SafeDreamer: Safe Reinforcement Learning with World Models**. [paper](https://arxiv.org/pdf/2307.07176)
+* **Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**. [[paper](https://arxiv.org/pdf/2405.03520)]
 
 ## <a id="Autonomous-Driving"> Autonomous Driving <a href="#table-of-contents">🔝</a> </a> 
 
@@ -69,9 +69,9 @@ General World Model aims at representing and simulating wide range of situations
 
 ## <a id="Indoor-Navigation"> Indoor Navigation <a href="#table-of-contents">🔝</a> </a> 
 
-- Pathdreamer: A World Model for Indoor Navigation. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Koh_Pathdreamer_A_World_Model_for_Indoor_Navigation_ICCV_2021_paper.pdf)]
-- Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf)]
-- Dreamwalker: Mental planning for continuous vision-language navigation. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DREAMWALKER_Mental_Planning_for_Continuous_Vision-Language_Navigation_ICCV_2023_paper.pdf)]
+* **Pathdreamer: A World Model for Indoor Navigation**. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Koh_Pathdreamer_A_World_Model_for_Indoor_Navigation_ICCV_2021_paper.pdf)]
+* **Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation**. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf)]
+* **Dreamwalker: Mental planning for continuous vision-language navigation**. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DREAMWALKER_Mental_Planning_for_Continuous_Vision-Language_Navigation_ICCV_2023_paper.pdf)]
 
 
 ## <a id="World-Model-Safty"> World Model Safty <a href="#table-of-contents">🔝</a> </a> 
