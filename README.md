@@ -49,9 +49,19 @@ The construction of world models often relies on various fundamental models.
 
 ### Text Generation
 * [LLaMA] **LLaMA: Open and Efficient Foundation Language Models** [[arxiv](https://arxiv.org/abs/2302.13971)]
+* [PaLM] **PaLM: Scaling Language Modeling with Pathways** [[arxiv](https://arxiv.org/pdf/2204.02311)]
+* [PaLM-E] **PaLM-E: An Embodied Multimodal Language Model** [[arxiv](https://palm-e.github.io/)]
+* [LLaVA] **Visual Instruction Tuning** [[NIPS2023](https://palm-e.github.io/)]
 ### Image Generation
+* [SDXL] **Sdxl: Improving latent diffusion models for high-resolution image synthesis** [[arxiv](https://arxiv.org/pdf/2307.01952)]
+* [PixArt-α] **PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** [[ICLR2024](https://arxiv.org/pdf/2310.00426)]
+* [Show-o] **Show-o: One single transformer to unify multimodal understanding and generation** [[arxiv](https://arxiv.org/pdf/2408.12528)]
 ### Video Generation
-
+* [ModelScope] **ModelScope Text-to-Video Technical Report** [[arxiv](https://arxiv.org/pdf/2308.06571)]
+* [VideoCrafter] **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** [[arxiv](https://arxiv.org/pdf/2310.19512)]
+* [DynamiCrafter] **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** [[ECCV2024](https://arxiv.org/abs/2310.12190)]
+* [CogVideoX] **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** [[arxiv](https://arxiv.org/abs/2408.06072)]
+* [Open-Sora Plan] [[project](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 ## <a id="General-World-Model"> General World Model <a href="#table-of-contents">🔝</a> </a> 
 
 General World Model aims at representing and simulating wide range of situations and interactions, especically those encountered in the real world.
