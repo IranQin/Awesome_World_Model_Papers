@@ -84,21 +84,21 @@ General World Model aims at representing and simulating wide range of situations
 * [DreamerV2] **Mastering Atari with discrete world models**. [[ICLR2021](https://arxiv.org/pdf/2010.02193)]
 * [DreamerV3] **Mastering Diverse Domains through World Models**. [[arxiv](https://arxiv.org/pdf/2301.04104v2)]
 
-* [Plan2Explore] **Planning to Explore via Self-Supervised World Models**. [[NeurIPS2019](https://proceedings.mlr.press/v119/sekar20a/sekar20a.pdf)]
+* [Plan2Explore] **Planning to Explore via Self-Supervised World Models**. [[ICML2020](https://proceedings.mlr.press/v119/sekar20a/sekar20a.pdf)]
 
-* [RoboDreamer] **Learning Compositional World Models for Robot Imagination**. [[arxiv](https://arxiv.org/pdf/2404.12377)]
-* [SWIM] **Structured World Models from Human Videos**. [[arxiv](https://arxiv.org/pdf/2308.10901)]
-* [FOWM] **Finetuning Offline World Models in the Real World**. [[arxiv](https://arxiv.org/pdf/2310.16029)]
+* [RoboDreamer] **Learning Compositional World Models for Robot Imagination**. [[ICML2024](https://arxiv.org/pdf/2404.12377)]
+* [SWIM] **Structured World Models from Human Videos**. [[RSS2023](https://arxiv.org/pdf/2308.10901)]
+* [FOWM] **Finetuning Offline World Models in the Real World**. [[CoRL2023](https://arxiv.org/pdf/2310.16029)]
 * [STEDIE] **Interaction-based Disentanglement of Entities for Object-centric World Models**. [[ICLR2023](https://openreview.net/pdf?id=JQc2VowqCzz)]
 
-* [MWM] **Masked World Models for Visual Control**. [[CoRL2023](https://proceedings.mlr.press/v205/seo23a/seo23a.pdf)]
+* [MWM] **Masked World Models for Visual Control**. [[CoRL2022](https://proceedings.mlr.press/v205/seo23a/seo23a.pdf)]
 
-* [CEE-US] **Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation**. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/98ecdc722006c2959babbdbdeb22eb75-Paper-Conference.pdf)]
+* [CEE-US] **Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation**. [[NeurIPS2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/98ecdc722006c2959babbdbdeb22eb75-Paper-Conference.pdf)]
 
-* [MV-MWM] **Multi-View Masked World Models for Visual Robotic Manipulation**. [[NeurIPS2022](https://proceedings.mlr.press/v202/seo23a/seo23a.pdf)]
-* [ContextWM] **Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning**. [[NeurIPS2024](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf)]
+* [MV-MWM] **Multi-View Masked World Models for Visual Robotic Manipulation**. [[ICML2023](https://proceedings.mlr.press/v202/seo23a/seo23a.pdf)]
+* [ContextWM] **Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf)]
 
-* [DayDreamer] **DayDreamer: World Models for Physical Robot Learning**. [[CoRL2023](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)]
+* [DayDreamer] **DayDreamer: World Models for Physical Robot Learning**. [[CoRL2022](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)]
 
 
 
