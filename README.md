@@ -79,6 +79,31 @@ General World Model aims at representing and simulating wide range of situations
 
 
 ## <a id="Robot-Manipulation"> Robot Manipulation <a href="#table-of-contents">🔝</a> </a> 
+* [PlaNet] **Learning Latent Dynamics for Planning from Pixels**. [[ICML2019](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf)]
+* [Dreamer] **Dream to Control: Learning Behaviors by Latent Imagination**. [[ICLR2020](https://arxiv.org/pdf/1912.01603)]
+* [DreamerV2] **Mastering Atari with discrete world models**. [[ICLR2021](https://arxiv.org/pdf/2010.02193)]
+* [DreamerV3] **Mastering Diverse Domains through World Models**. [[arxiv](https://arxiv.org/pdf/2301.04104v2)]
+
+* [Plan2Explore] **Planning to Explore via Self-Supervised World Models**. [[NeurIPS2019](https://proceedings.mlr.press/v119/sekar20a/sekar20a.pdf)]
+
+* [RoboDreamer] **Learning Compositional World Models for Robot Imagination**. [[arxiv](https://arxiv.org/pdf/2404.12377)]
+* [SWIM] **Structured World Models from Human Videos**. [[arxiv](https://arxiv.org/pdf/2308.10901)]
+* [FOWM] **Finetuning Offline World Models in the Real World**. [[arxiv](https://arxiv.org/pdf/2310.16029)]
+* [STEDIE] **Interaction-based Disentanglement of Entities for Object-centric World Models**. [[ICLR2023](https://openreview.net/pdf?id=JQc2VowqCzz)]
+
+* [MWM] **Masked World Models for Visual Control**. [[CoRL2023](https://proceedings.mlr.press/v205/seo23a/seo23a.pdf)]
+
+* [CEE-US] **Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation**. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/98ecdc722006c2959babbdbdeb22eb75-Paper-Conference.pdf)]
+
+* [MV-MWM] **Multi-View Masked World Models for Visual Robotic Manipulation**. [[NeurIPS2022](https://proceedings.mlr.press/v202/seo23a/seo23a.pdf)]
+* [ContextWM] **Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning**. [[NeurIPS2024](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf)]
+
+* [DayDreamer] **DayDreamer: World Models for Physical Robot Learning**. [[CoRL2023](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)]
+
+
+
+
+
 
 ## <a id="Indoor-Navigation"> Indoor Navigation <a href="#table-of-contents">🔝</a> </a> 
 
