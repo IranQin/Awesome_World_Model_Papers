@@ -77,6 +77,42 @@ General World Model aims at representing and simulating wide range of situations
 
 ## <a id="Autonomous-Driving"> Autonomous Driving <a href="#table-of-contents">🔝</a> </a> 
 
+### Action Generation
+* **Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving.** [[ICRA](https://arxiv.org/pdf/2310.01957)]
+* [LanguageMPC] **LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving.** [[arxiv](https://arxiv.org/abs/2310.03026)]
+* [DriveMLM] **DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving.** [[arxiv](https://arxiv.org/abs/2312.09245)]
+* [DriveLM] **DriveLM: Driving with Graph Visual Question Answering.** [[ECCV2024](https://github.com/OpenDriveLab/DriveLM)]
+* [LMDrive] **LMDrive: Closed-Loop End-to-End Driving with Large Language Models.** [[CVPR2024](https://github.com/opendilab/LMDrive)]
+* [DiLu] **DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models.** [[ICLR2024](https://arxiv.org/abs/2309.16292)]
+* [DriveVLM] **DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models.** [[CoRL2024](https://tsinghua-mars-lab.github.io/DriveVLM/)]
+* [LeapAD] **Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving.** [[NIPS2024](https://arxiv.org/abs/2405.15324)]
+* [AD-H] **AD-H: Autonomous Driving with Hierarchical Agents.** [[arxiv](https://arxiv.org/abs/2406.03474)]
+* [Think2Drive] **Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2).** [[ECCV2024](https://arxiv.org/abs/2402.16720)]
+
+
+
+
+
+### Future Generation
+* [GAIA-1] **GAIA-1: A generative world model for autonomous driving.** [[arxiv](https://arxiv.org/abs/2309.17080)]
+* [MagicDrive] **MagicDrive: Street View Generation with Diverse 3D Geometry Control.** [[ICLR2024](https://github.com/cure-lab/MagicDrive)]
+* [DriveDiffusion] **DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model.** [[ECCV2024](https://arxiv.org/abs/2310.07771)]
+* [OCCWorld] **OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving.** [[ECCV2024](https://arxiv.org/abs/2311.16038)]
+* [Vista] **Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability.** [[NIPS2024]]
+
+
+### Future Generation for Action
+* [ADriver-I] **ADriver-I: A General World Model for Autonomous Driving** [[arxiv](https://arxiv.org/abs/2311.13549)]
+* [GenAD] **GenAD: Generative End-to-End Autonomous Driving.** [[ECCV2024](https://arxiv.org/abs/2402.11502)]
+* [DriveDreamer] **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving.** [[ECCV2024](https://arxiv.org/abs/2309.09777)]
+* [DriveDreamer-2] **DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation.** [[arxiv](https://drivedreamer2.github.io)]
+* [NeMo] **Neural Volumetric World Models for Autonomous Driving.** [[ECCV2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)]
+* [ViDAR] **Visual Point Cloud Forecasting enables Scalable Autonomous Driving.** [[CVPR2024](https://github.com/OpenDriveLab/ViDAR)]
+* [Drive-WM] **Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving.** [[CVPR2024](https://github.com/BraveGroup/Drive-WM)]
+* [DriveWorld] **DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving.** [[CVPR2024](https://arxiv.org/abs/2405.04390)]
+
+
+
 
 ## <a id="Robot-Manipulation"> Robot Manipulation <a href="#table-of-contents">🔝</a> </a> 
 * [PlaNet] **Learning Latent Dynamics for Planning from Pixels**. [[ICML2019](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf)]
