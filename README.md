@@ -21,7 +21,7 @@ Before taking action, humans make predictions based on their objectives and obse
 
 ## :collision: Update Log 
 
-* [2024.12.10] We release the first version of the paper list for Embodied AI. This page is continually updating!
+* [2024.12.29] We release the first version of the paper list for Embodied AI. This page is continually updating!
 
 
 
@@ -88,9 +88,6 @@ General World Model aims at representing and simulating wide range of situations
 * [LeapAD] **Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving.** [[NIPS2024](https://arxiv.org/abs/2405.15324)]
 * [AD-H] **AD-H: Autonomous Driving with Hierarchical Agents.** [[arxiv](https://arxiv.org/abs/2406.03474)]
 * [Think2Drive] **Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2).** [[ECCV2024](https://arxiv.org/abs/2402.16720)]
-
-
-
 
 
 ### Future Generation
