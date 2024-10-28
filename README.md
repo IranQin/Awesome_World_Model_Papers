@@ -151,33 +151,37 @@ General World Model aims at representing and simulating wide range of situations
 * [ViNT] **ViNT: A Foundation Model for Visual Navigation** [[CoRL2023](https://arxiv.org/pdf/2306.14846)]
 * [ENTL] **ENTL: Embodied Navigation Trajectory Learner** [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Kotar_ENTL_Embodied_Navigation_Trajectory_Learner_ICCV_2023_paper.pdf)]
 
-## <a id="World-Model-Safty"> World Model Safty <a href="#table-of-contents">🔝</a> </a> 
+## <a id="World-Model-Safty"> World Model Safety <a href="#table-of-contents">🔝</a> </a> 
+### Definition
+* [GSAI] **Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems** [[arxiv](https://arxiv.org/pdf/2405.06624)]
+
 ### Safety Evaluation
+* [LlamaGuard] **Llama guard: Llm-based input-output safeguard for human-ai conversations** [[arxiv](https://arxiv.org/pdf/2312.06674)]
+* [Llama Guard 3 Vision] **Meta Llama Guard 3 Vision** [[huggingface](https://github.com/meta-llama/PurpleLlama/blob/main/Llama-Guard3/11B-vision/MODEL_CARD.md)]
 
 ### Safety Benchmark
-SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model[[arxiv](https://arxiv.org/pdf/2406.12030)]
+* [SPA-VL] **SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model** [[arxiv](https://arxiv.org/pdf/2406.12030)]
 
+* [SafeBench] **SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles** [[NIPS2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf)]
 
-SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles[[NIPS2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf)]
+* [Beavertails] **Beavertails: Towards improved safety alignment of llm via a human-preference dataset** [[NIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4dbb61cb68671edc4ca3712d70083b9f-Paper-Datasets_and_Benchmarks.pdf)]
 
-Beavertails: Towards improved safety alignment of llm via a human-preference dataset[[NIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4dbb61cb68671edc4ca3712d70083b9f-Paper-Datasets_and_Benchmarks.pdf)]
-
-Salad-bench: A hierarchical and comprehensive safety benchmark for large language models[[ACL2024 Findings](https://arxiv.org/pdf/2402.05044)]
+* [Salad-bench] **Salad-bench: A hierarchical and comprehensive safety benchmark for large language models** [[ACL2024 Findings](https://arxiv.org/pdf/2402.05044)]
 
 
 ### Attack
-Universal and transferable adversarial attacks on aligned language models[[arxiv](https://arxiv.org/pdf/2307.15043)]
+* [GCG] **Universal and transferable adversarial attacks on aligned language models** [[arxiv](https://arxiv.org/pdf/2307.15043)]
 
-COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability[[arxiv](https://arxiv.org/pdf/2402.08679)]
+* [COLD-Attack] **COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability** [[arxiv](https://arxiv.org/pdf/2402.08679)]
 
-From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking[[arxiv](https://arxiv.org/pdf/2406.14859)]
+* [-] **From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking** [[arxiv](https://arxiv.org/pdf/2406.14859)]
 
-Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast[[arxiv](https://arxiv.org/pdf/2402.08567)]
+* [Agent Smith] **Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast** [[arxiv](https://arxiv.org/pdf/2402.08567)]
 
 ### Safety enhancement
-MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[[paper](https://arxiv.org/pdf/2401.02906)]
+* [MLLM-Protector] **MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance** [[paper](https://arxiv.org/pdf/2401.02906)]
 
-Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs[[arxiv](https://arxiv.org/pdf/2406.06622)]
+* [Adversarial Tuning] **Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs** [[arxiv](https://arxiv.org/pdf/2406.06622)]
 
 
 ## <a id="Social-Simulation"> Social Simulation <a href="#table-of-contents">🔝</a> </a> 
