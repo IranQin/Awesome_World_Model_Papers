@@ -146,7 +146,10 @@ General World Model aims at representing and simulating wide range of situations
 * [Pathdreamer] **Pathdreamer: A World Model for Indoor Navigation** [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Koh_Pathdreamer_A_World_Model_for_Indoor_Navigation_ICCV_2021_paper.pdf)]
 * [Panogen] **Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation** [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf)]
 * [Dreamwalker] **Dreamwalker: Mental planning for continuous vision-language navigation** [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DREAMWALKER_Mental_Planning_for_Continuous_Vision-Language_Navigation_ICCV_2023_paper.pdf)]
-
+* [VLN-SIG] **Improving Vision-and-Language Navigation by Generating Future-View Image Semantics** [[CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Improving_Vision-and-Language_Navigation_by_Generating_Future-View_Image_Semantics_CVPR_2023_paper.pdf)]
+* [LFG] **Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning** [[CoRL2023](https://arxiv.org/pdf/2310.10103)]
+* [ViNT] **ViNT: A Foundation Model for Visual Navigation** [[CoRL2023](https://arxiv.org/pdf/2306.14846)]
+* [ENTL] **ENTL: Embodied Navigation Trajectory Learner** [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Kotar_ENTL_Embodied_Navigation_Trajectory_Learner_ICCV_2023_paper.pdf)]
 
 ## <a id="World-Model-Safty"> World Model Safty <a href="#table-of-contents">🔝</a> </a> 
 ### Safety Evaluation
