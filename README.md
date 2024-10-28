@@ -152,19 +152,30 @@ General World Model aims at representing and simulating wide range of situations
 ### Safety Evaluation
 
 ### Safety Benchmark
-SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model[[paper](https://arxiv.org/abs/2406.12030)]
+SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model[[arxiv](https://arxiv.org/pdf/2406.12030)]
 
 
-SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf)]
+SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles[[NIPS2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf)]
+
+Beavertails: Towards improved safety alignment of llm via a human-preference dataset[[NIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4dbb61cb68671edc4ca3712d70083b9f-Paper-Datasets_and_Benchmarks.pdf)]
+
+Salad-bench: A hierarchical and comprehensive safety benchmark for large language models[[ACL2024 Findings](https://arxiv.org/pdf/2402.05044)]
 
 
 ### Attack
-From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking[[paper](https://arxiv.org/abs/2406.14859)]
+Universal and transferable adversarial attacks on aligned language models[[arxiv](https://arxiv.org/pdf/2307.15043)]
 
-Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast[[paper](https://arxiv.org/abs/2402.08567)]
+COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability[[arxiv](https://arxiv.org/pdf/2402.08679)]
+
+From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking[[arxiv](https://arxiv.org/pdf/2406.14859)]
+
+Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast[[arxiv](https://arxiv.org/pdf/2402.08567)]
 
 ### Safety enhancement
-MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[[paper](https://arxiv.org/abs/2401.02906)]
+MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance[[paper](https://arxiv.org/pdf/2401.02906)]
+
+Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs[[arxiv](https://arxiv.org/pdf/2406.06622)]
+
 
 ## <a id="Social-Simulation"> Social Simulation <a href="#table-of-contents">🔝</a> </a> 
 
