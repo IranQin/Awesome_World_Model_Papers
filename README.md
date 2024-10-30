@@ -62,6 +62,8 @@ The construction of world models often relies on various fundamental models.
 * [DynamiCrafter] **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors** [[ECCV2024](https://arxiv.org/abs/2310.12190)]
 * [CogVideoX] **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** [[arxiv](https://arxiv.org/abs/2408.06072)]
 * [Open-Sora Plan] [[project](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
+
+
 ## <a id="General-World-Model"> General World Model <a href="#table-of-contents">🔝</a> </a> 
 
 General World Model aims at representing and simulating wide range of situations and interactions, especically those encountered in the real world.
@@ -69,6 +71,8 @@ General World Model aims at representing and simulating wide range of situations
 * [Gen-2] **Gen-2: Generate novel videos with text, images or video clips**. [[project](https://runwayml.com/research/gen-2)]
 * [Gen-3-Alpha] **Gen-3 Alpha: A New Frontier for Video Generation**. [[project](https://runwayml.com/research/introducing-gen-3-alpha)]
 * [Pandora] **Pandora: Towards General World Model with Natural Language Actions and Video States** [[arxiv](https://arxiv.org/pdf/2406.09455)]
+* [Dreamer] **Dream to Control: Learning Behaviors by Latent Imagination**. [[ICLR2020](https://arxiv.org/pdf/1912.01603)]
+* [DreamerV2] **Mastering Atari with discrete world models**. [[ICLR2021](https://arxiv.org/pdf/2010.02193)]
 * [DreamerV3] **Mastering Diverse Domains through World Models** [[arxiv](https://arxiv.org/pdf/2301.04104)]
 * [TD-MPC2] **TD-MPC2: Scalable, Robust World Models for Continuous Control** [[ICLR2024](https://arxiv.org/pdf/2310.16828)]
 * [UniSim] **Learning Interactive Real-World Simulators** [[ICLR2024](https://ai-data-base.com/wp-content/uploads/2023/10/2310.06114_compressed.pdf)]
@@ -113,9 +117,6 @@ General World Model aims at representing and simulating wide range of situations
 
 ## <a id="Robot-Manipulation"> Robot Manipulation <a href="#table-of-contents">🔝</a> </a> 
 * [PlaNet] **Learning Latent Dynamics for Planning from Pixels**. [[ICML2019](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf)]
-* [Dreamer] **Dream to Control: Learning Behaviors by Latent Imagination**. [[ICLR2020](https://arxiv.org/pdf/1912.01603)]
-* [DreamerV2] **Mastering Atari with discrete world models**. [[ICLR2021](https://arxiv.org/pdf/2010.02193)]
-* [DreamerV3] **Mastering Diverse Domains through World Models**. [[arxiv](https://arxiv.org/pdf/2301.04104v2)]
 
 * [Plan2Explore] **Planning to Explore via Self-Supervised World Models**. [[ICML2020](https://proceedings.mlr.press/v119/sekar20a/sekar20a.pdf)]
 
