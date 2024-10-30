@@ -184,16 +184,16 @@ General World Model aims at representing and simulating wide range of situations
 
 ## <a id="Social-Simulation"> Social Simulation <a href="#table-of-contents">🔝</a> </a> 
 
-- Generative Agents: Interactive Simulacra of Human Behavior[[paper](https://arxiv.org/abs/2304.03442)]
+- [-] Generative Agents: Interactive Simulacra of Human Behavior[[paper](https://arxiv.org/abs/2304.03442)]
 
-- $S^3$: Social-network Simulation System with Large Language Model-Empowered Agents[[paper](https://arxiv.org/abs/2307.14984)]
+- [$S^3$] $S^3$: Social-network Simulation System with Large Language Model-Empowered Agents[[paper](https://arxiv.org/abs/2307.14984)]
 
-- Multi-Agent Consensus Seeking via Large Language Models[[paper](https://arxiv.org/abs/2310.20151)]
-- Lyfe Agents: Generative agents for low-cost real-time social interactions[[paper](https://arxiv.org/abs/2310.02172)]
-- Quantifying the Impact of Large Language Models on Collective Opinion Dynamics[[paper](https://arxiv.org/abs/2308.03313)]
-- CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society[[NIPS2023]](https://arxiv.org/abs/2303.17760)
-- Theory of Mind for Multi-Agent Collaboration via Large Language Models[[EMNLP2023](https://arxiv.org/abs/2310.10701)]
-- Can Large Language Models Transform Computational Social Science?[[paper](https://arxiv.org/abs/2305.03514)]
+- [ConsensusLLM] Multi-Agent Consensus Seeking via Large Language Models[[paper](https://arxiv.org/abs/2310.20151)]
+- [SaF] Lyfe Agents: Generative agents for low-cost real-time social interactions[[paper](https://arxiv.org/abs/2310.02172)]
+- [-] Quantifying the Impact of Large Language Models on Collective Opinion Dynamics[[paper](https://arxiv.org/abs/2308.03313)]
+- [CAMEL] CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society[[NIPS2023]](https://arxiv.org/abs/2303.17760)
+- [ToM] Theory of Mind for Multi-Agent Collaboration via Large Language Models[[EMNLP2023](https://arxiv.org/abs/2310.10701)]
+- [-] Can Large Language Models Transform Computational Social Science?[[paper](https://arxiv.org/abs/2305.03514)]
 
 ## <a id="Multi-Agent"> Multi-Agent World Model <a href="#table-of-contents">🔝</a> </a> 
 
