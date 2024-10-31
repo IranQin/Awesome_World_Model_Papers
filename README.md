@@ -133,7 +133,8 @@ General World Model aims at representing and simulating wide range of situations
 * [ContextWM] **Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf)]
 
 * [DayDreamer] **DayDreamer: World Models for Physical Robot Learning**. [[CoRL2022](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)]
-
+* [] **Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf)]
+* [] **When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/ce9d3c592712d23f2ec3671941d67fa1-Paper-Conference.pdf)]
 
 
 
