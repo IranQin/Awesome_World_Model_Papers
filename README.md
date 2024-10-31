@@ -131,10 +131,22 @@ General World Model aims at representing and simulating wide range of situations
 
 * [MV-MWM] **Multi-View Masked World Models for Visual Robotic Manipulation**. [[ICML2023](https://proceedings.mlr.press/v202/seo23a/seo23a.pdf)]
 * [ContextWM] **Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf)]
+* [DexSim2Real2] **DexSim2Real2: Building Explicit World Model for Precise Articulated Object Dexterous Manipulation**. [[arxiv](https://arxiv.org/pdf/2409.08750)]
 
 * [DayDreamer] **DayDreamer: World Models for Physical Robot Learning**. [[CoRL2022](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)]
 * [] **Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf)]
 * [] **When Demonstrations Meet Generative World Models: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning**. [[NeurIPS2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/ce9d3c592712d23f2ec3671941d67fa1-Paper-Conference.pdf)]
+* 
+
+### Foundation Model
+* [Survey] **What Foundation Models can Bring for Robot Learning in Manipulation : A Survey**. [[arxiv](https://arxiv.org/pdf/2404.18201)]
+* [] **Transferring Foundation Models for Generalizable Robotic Manipulation**. [[arxiv](https://arxiv.org/pdf/2306.05716)]
+* [SculptBot] **SculptBot: Pre-Trained Models for 3D Deformable Object Manipulation**. [[ICRA2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610899)]
+* [HiP] **Compositional Foundation Models for Hierarchical Planning**. [[NeurIPS2023](https://arxiv.org/pdf/2309.08587)]
+* [MA] **Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**. [[arxiv](https://robot-ma.github.io/MA_paper.pdf)]
+* [AutoRT] **AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**. [[arxiv](https://arxiv.org/pdf/2401.12963)]
+* [SuSIE] **Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**. [[arxiv](https://rail-berkeley.github.io/susie/)]
+* [MOO] **Open-World Object Manipulation usingPre-Trained Vision-Language Models**[[CoRL2023](https://arxiv.org/pdf/2303.00905)]
 
 
 
